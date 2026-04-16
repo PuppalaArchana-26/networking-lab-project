@@ -25,3 +25,33 @@ This project demonstrates basic enterprise networking concepts using Cisco devic
 
 ## Purpose
 To demonstrate hands-on networking skills for entry-level Network Engineer roles.
+
+
+What to add inside files
+📄 cisco-configs.txt
+
+Paste basic configs like:
+
+IP setup
+VLAN setup
+routing commands
+📄 troubleshooting-notes.md
+
+Example:
+
+Issue: Device not pinging gateway  
+Cause: Wrong subnet mask  
+Fix: Corrected subnet configuration  
+Result: Connectivity restored
+
+📄 wireshark-capture-summary.md
+Captured DNS request packets
+Observed TCP handshake
+Verified successful communication between hosts
+
+If you don’t have Packet Tracer installed
+
+Tell me — I can give you:
+
+ready-made topology file
+or step-by-step setup 
